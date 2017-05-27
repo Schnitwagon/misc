@@ -19,6 +19,5 @@
   #### MILLIONS ####
     unit_1m.f <- function(x) {x/(10^6)}
     
-  
   #### THOUSANDS ####
     unit_1k.f <- function(x) {x/(10^3)}
