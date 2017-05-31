@@ -12,6 +12,6 @@
 #  WELL, HERE YOU GO!!!!!!!!!!!!
 ##################################################
 
-cumsum_pct.f <- function(x) {cumsum(x)/sum(x)}
+cumsum_pct <- function(x) {cumsum(x)/sum(x)}
 
 ### AMAZING!!! ###
